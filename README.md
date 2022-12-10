@@ -5,7 +5,7 @@ Following Features:
 2)Humidity Info
 3)Wind Info & Sun Info
 
-                                                     *Weather For (Any City In The World)*
+                              *Weather For (Any City In The World)*
                                                      
                                                      
 ![Weatherapp](https://user-images.githubusercontent.com/106821254/206870838-c913c1a7-b155-4f33-8bff-eb47fd31d1c6.png)
